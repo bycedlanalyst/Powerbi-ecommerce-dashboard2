@@ -99,7 +99,7 @@ Le projet suit une démarche classique de Business Intelligence :
 **Cédric BOIMIN**
 Data Analyst | Business Intelligence | Big Data & IA
 
-🔗 Portfolio : https://bycedlanalsyt.github.io/ 
+🔗 Portfolio : https://cboimin-portfolio-spark.lovable.app/
 🔗 LinkedIn  : https://www.linkedin.com/in/cedric-boimin
 
 ---
