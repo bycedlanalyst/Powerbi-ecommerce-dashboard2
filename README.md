@@ -45,7 +45,7 @@ Ce second dashboard met en avant les forces du business :
 
 ### Performance globale
 
-![Dashboard Performance](Images/Dash Perf.png)
+![Powerbi-ecommerce-dashbooard2](Images/Dash Perf.png)
 
 ### Tops et best performers
 
